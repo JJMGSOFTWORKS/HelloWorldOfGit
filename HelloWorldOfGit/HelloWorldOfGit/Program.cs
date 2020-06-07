@@ -8,7 +8,7 @@ namespace HelloWorldOfGit
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("For a pull request");
-            Console.WriteLine("conflict with new feature");
+            Console.WriteLine("feature change");
             Console.ReadKey();
         }
     }
