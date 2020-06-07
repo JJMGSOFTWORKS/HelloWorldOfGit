@@ -7,7 +7,7 @@ namespace HelloWorldOfGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("For a pull request");
             Console.ReadKey();
         }
     }
